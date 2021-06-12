@@ -1,0 +1,11 @@
+streamlit
+networkx
+geopandas
+pydeck
+transliterate
+shapely
+js2py
+selenium
+selenium-wire
+fake_useragent
+beautifulsoup4
